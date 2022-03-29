@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/a4b33886128681.5d909dad47ded.jpg");
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
